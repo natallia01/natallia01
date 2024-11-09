@@ -1,8 +1,29 @@
-- 👋 Olá, Sou a @natallia
-- 👀 Estou interessada em Datas scince
-- 🌱 Atualmente estou aprendendo análise de dados
-- 💞️ Estou procurando me aperfeiçoar nessa área para cooperar na área da saúde e de acidentes
-- 📫 Entre em contato comigo pelo meu instagram @_natalliam
+##  @natallia 
+**Data Scientist 🌱** passionate about applying data analysis to improve healthcare 🏥 and accident prevention 🚧. 
+
+**Skills:** 
+* Python 🐍
+* Pandas 🐼
+* NumPy 🔢
+* Jupyter Notebook 📓
+* Data Visualization (Matplotlib 📊, Seaborn 🎨, Folium 🗺️)
+
+**Interests:**
+* Scientific data analysis 🔬
+* Healthcare analytics 🩺
+* Accident prevention ⚠️
+* Machine learning 🤖
+
+**Looking for:**
+* Opportunities to collaborate on open-source projects 🤝
+* Mentorship from experienced data scientists 🧙‍♀️
+
+**Let's connect!** 
+* **Instagram:** @_natalliam
+
+FOLLOW ONE OF MY PROJECTS BELOW:
+[Untitled.pdf](https://github.com/user-attachments/files/17688929/Untitled.pdf)
+
 
 
 <!---
